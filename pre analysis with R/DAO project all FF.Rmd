@@ -1,0 +1,86 @@
+---
+title: "DAO project"
+output: html_document
+date: "2024-04-07"
+---
+
+```{r}
+#useful imports
+library(leaflet)
+library(leaflet.extras)
+library(ggmap)
+library(ggplot2)
+library(dplyr)
+library(data.table)
+library(maps)
+
+```
+
+
+```{r}
+FF_Locations <- read.csv("Datafiniti_Fast_Food_Restaurants.csv")
+
+```
+
+
+```{r}
+#group all the data by states
+
+# Group by state code and count the frequency
+FF_by_state <- FF_Locations %>%
+  group_by(province) %>%
+  summarise(count = n())
+
+# Print the result
+head(FF_by_state)
+
+```
+
+```{r}
+
+
+# Use match() to find the corresponding full state names
+FF_by_state$region <- state.name[match(FF_by_state$province, state.abb)]
+
+# Convert to lowercase
+FF_by_state$region <- tolower(FF_by_state$region)
+# Print the result
+print(FF_by_state)
+
+
+
+```
+
+```{r}
+# Get the map data for US states
+states_map <- map_data("state")
+
+# Merge your data with the map data
+merged_data <- merge(states_map, FF_by_state, by = "region")
+
+# Sort the merged data by group and order
+library(dplyr)
+merged_data2 <- arrange(merged_data, group, order)
+
+# Plot the choropleth map
+ggplot(merged_data2, aes(x = long, y = lat, group = group, fill = count)) +
+  geom_polygon(color = "black") +
+  coord_map("polyconic") +
+  scale_fill_gradient(low = "white", high = "blue") +
+  labs(fill = "Number of Stores") +
+  theme_minimal() +
+  theme(panel.grid = element_blank())
+
+```
+
+
+
+
+
+
+
+
+
+
+
+

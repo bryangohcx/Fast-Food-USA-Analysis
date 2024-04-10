@@ -1,0 +1,116 @@
+---
+title: "DAO project"
+output: html_document
+date: "2024-04-07"
+---
+
+```{r}
+#useful imports
+library(leaflet)
+library(leaflet.extras)
+library(ggmap)
+library(ggplot2)
+library(dplyr)
+library(data.table)
+library(maps)
+```
+
+
+```{r}
+MCD_Locations <- read.csv("McDonalds.csv")
+
+MCD_Locations$geometry.coordinates <- gsub("\\[|\\]","",MCD_Locations$geometry.coordinates)
+MCD_Locations$long <- sapply(strsplit(MCD_Locations$geometry.coordinates, ","), function(x) as.numeric(x[1]))
+MCD_Locations$lat <- sapply(strsplit(MCD_Locations$geometry.coordinates, ","), function(x) as.numeric(x[2]))
+summary(MCD_Locations)
+```
+```{r}
+# Merge the map data with the data frame
+m <- leaflet(MCD_Locations) %>%
+  addTiles() %>%
+  addCircleMarkers()
+
+# Print the map
+print(m)
+
+```
+
+```{r}
+#Plain map
+map <- get_map(location = c(lon = -93.11, lat = 37.34), zoom = 4)
+ggmap(map)+
+  ggtitle("Plain Map")
+```
+
+```{r}
+heatmap_layer_MCD <- ggplot2::stat_density2d(data = MCD_Locations, aes(x = long, y = lat, fill = ..level.., alpha = ..level..), geom = "polygon", bins = 30) 
+```
+
+```{r}
+# Overlay the heatmap on the map
+ggmap::ggmap(map) + heatmap_layer_MCD + 
+  scale_fill_gradient(low = "green", high = "red") + scale_alpha_continuous(range = c(0, 0.25), guide = FALSE)
+
+```
+```{r}
+#group all the data by states
+
+# Group by state code and count the frequency
+MCD_by_state <- MCD_Locations %>%
+  group_by(properties.subDivision) %>%
+  summarise(count = n())
+
+# Print the result
+head(MCD_by_state)
+
+```
+
+```{r}
+
+
+# Use match() to find the corresponding full state names
+MCD_by_state$region <- state.name[match(MCD_by_state$properties.subDivision, state.abb)]
+
+# Convert to lowercase
+MCD_by_state$region <- tolower(MCD_by_state$region)
+MCD_by_state[8,3] <- "washington"
+# Print the result
+print(MCD_by_state)
+
+
+
+```
+
+```{r}
+# Get the map data for US states
+states_map <- map_data("state")
+
+# Merge your data with the map data
+merged_data <- merge(states_map, MCD_by_state, by.x = "region", by.y = "region")
+
+# Sort the merged data by group and order
+library(dplyr)
+merged_data <- arrange(merged_data, group, order)
+
+# Plot the choropleth map
+ggplot(merged_data, aes(x = long, y = lat, group = group, fill = count)) +
+  geom_polygon(color = "black") +
+  coord_map("polyconic") +
+  scale_fill_gradient(low = "yellow", high = "red") +
+  labs(fill = "Number of Stores") +
+  theme_minimal() +
+  theme(panel.grid = element_blank())
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
