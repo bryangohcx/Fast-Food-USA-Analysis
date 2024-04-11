@@ -1,0 +1,219 @@
+name,type,description,number_of_items
+SONIC Drive In,burgers,"Drive-in fast-food chain known for its burgers, hot dogs, and shakes",30
+Taco Bell,tacos,"Chain for Mexican-inspired fast food including tacos, burritos & quesadillas",20
+Arby's,chicken,"Fast-food chain known for its roast beef, turkey, and premium Angus beef sandwiches",15
+Steak 'n Shake,burgers,"Classic American brand serving premium burgers and milkshakes since 1934",25
+Wendy's,burgers,"Fast-food chain known for its square burgers, fries & Frosty shakes",20
+Burger King,burgers,"Fast-food chain known for its flame-grilled burgers, fries & shakes",30
+Chipotle Mexican Grill,Mexican,"Fast-casual chain serving Mexican-inspired food, including burritos & tacos",15
+7-Eleven,others,"Convenience store chain offering a variety of snacks, drinks, and quick bites",50
+Dairy Queen,dessert,"Soft-serve ice cream & signature shakes top the menu at this classic burger & fries fast-food chain",20
+Mr. Hero,sandwiches,"Regional chain serving made-to-order sandwiches, including hot subs & deli classics",20
+Golden Chick,chicken,"Fast-food chain specializing in fried chicken, tenders & side dishes",15
+Carl's Jr,burgers,"Fast-food chain known for its big, juicy burgers and charbroiled chicken sandwiches",25
+Checkers,burgers,"Drive-thru fast-food chain offering burgers, hot dogs, fries & shakes",20
+Rally's,burgers,"Drive-thru fast-food chain serving burgers, hot dogs, fries & shakes",20
+Togo's,sandwiches,"California-based chain serving made-to-order sandwiches, salads & wraps",20
+Little Q Hot Pot,others,"Hot pot restaurant offering customizable broth bases & a variety of meats, seafood & veggies",30
+McDonald's,burgers,"Iconic fast-food chain known for its burgers, fries & shakes",30
+Five Guys,burgers,"Fast-casual chain known for its customizable burgers, hot dogs & fries",15
+Boston Road Pizza,pizza,"Casual pizzeria chain offering New York-style pizzas, pasta & subs",25
+Boston Market,fast food,"Fast-casual chain offering rotisserie chicken, ribs & home-style sides",20
+D'Angelo Grilled Sandwiches,sandwiches,"Regional chain known for its grilled sandwiches, including steak & cheese",20
+Nino's Pizzarama,pizza,"Casual pizzeria offering New York-style pies, plus subs, pasta & salads",25
+Filippi's Pizza Grotto,pizza,"Local chain offering pizza, pasta & other Italian fare in a casual setting",30
+Jack in the Box,fast food,"Fast-food chain offering a variety of burgers, chicken sandwiches & tacos",25
+Round Table Pizza,pizza,"Chain serving pizzas with a variety of toppings, plus sandwiches & salads",20
+El Pollo Loco,chicken,"Fast-food chain specializing in citrus-marinated, flame-grilled chicken",20
+In-N-Out Burger,burgers,"Fast-food chain known for its burgers, fries, and shakes",15
+Copper Oven Artisan Pizza,pizza,"Local pizzeria offering wood-fired pizzas with creative toppings",20
+Del Taco,tacos,"Fast-food chain serving Mexican-inspired fare, including tacos, burritos & nachos",25
+Little Caesars Pizza,pizza,"Chain pizzeria offering pizza, breadsticks & wings for takeout or delivery",20
+Sbarro,pizza,"Casual chain offering NY-style pizza, pasta dishes & other Italian-American fare",20
+Casey's General Store,others,"Convenience store chain offering a variety of snacks, drinks, and quick bites",40
+SUBWAY,sandwiches,"International fast-food chain known for its submarine sandwiches & salads",30
+Fat Patty's,burgers,"Local burger joint offering a variety of creative burgers & sandwiches",20
+Pizza Hut,pizza,"Casual pizza chain offering pizza, pasta, wings, and desserts for dine-in, takeout, or delivery",30
+Culver's,burgers,"Fast-food chain known for its butterburgers, frozen custard & cheese curds",25
+KFC,chicken,"Global fast-food chain known for its fried chicken buckets, sandwiches & sides",20
+Whataburger,burgers,"Regional fast-food chain known for its made-to-order burgers & sandwiches",20
+Chick-Fil-A,chicken,"Fast-food chain known for its chicken sandwiches, nuggets, and waffle fries",20
+Firehouse Subs,sandwiches,"Counter-serve sandwich chain offering made-to-order hot & cold subs, plus a variety of hot sauces",25
+Cupie's Drive-In,burgers,"Local drive-in serving classic American fast food, including burgers, fries & shakes",20
+Primo's Pizza,pizza,"Family-owned pizzeria offering New York-style pizza, subs & pasta dishes",20
+Simple Simon's Pizza,pizza,"Chain pizzeria offering a variety of pizza styles, plus sandwiches & salads",25
+CASA Mexicana,Mexican,"Local Mexican restaurant offering traditional dishes, including tacos, burritos & fajitas",20
+Bob Evans,others,"Casual dining chain known for its country-style breakfast, lunch & dinner options",30
+Players Grill,others,"Local sports bar serving pub grub, burgers & American classics in a casual setting",25
+Back Yard Burgers,burgers,"Casual burger chain known for its flame-grilled burgers, chicken sandwiches & salads",20
+Italo's Pizza,pizza,"Local pizzeria offering New York-style pizza, pasta, subs & wings",25
+Hunan Gardens,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",25
+Toppers Pizza,pizza,"Casual pizzeria chain offering creative pizzas, plus wings & other sides",30
+Hernandez Mexican Restaurant,Mexican,"Local Mexican restaurant offering traditional dishes, including tacos, burritos & enchiladas",20
+Glorious Foods Gourmet to go & Catering,others,"Local catering service offering gourmet to-go options, including sandwiches, salads & sides",30
+Schlotzsky's,sandwiches,"Casual sandwich chain known for its oven-baked sandwiches, pizzas, and salads",20
+Chicken Express,chicken,"Regional fast-food chain known for its fried chicken, sides & sweet tea",20
+Big House Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Jerry's Subs & Pizza,sandwiches,"Casual chain offering cheesesteaks, subs & pizza, plus burgers & salads",25
+Fox's Pizza Den,pizza,"Casual chain offering pizza, sandwiches, and other Italian-American fare",20
+Pizza Pub,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",25
+Grande Italian Restaurant,Italian,"Local Italian restaurant offering traditional pasta dishes, pizzas & subs",25
+Arni's Crawfordsville,pizza,"Casual pizzeria chain offering pizza, sandwiches & salads",20
+Arctic Circle,others,"Fast-food chain offering a variety of burgers, sandwiches, and shakes",25
+Pizza Barn,pizza,"Local pizzeria offering pizza, pasta, subs & salads for dine-in, takeout, or delivery",20
+Rico's Pizza & Subs,pizza,"Casual pizzeria offering New York-style pizza, subs & salads",20
+B's Pizza,pizza,"Local pizzeria offering pizza, subs, salads & pasta dishes in a casual setting",20
+Domino's Pizza,pizza,"Chain offering delivery & carryout pizza, plus chicken wings, subs & pasta",30
+Hardee's,burgers,"Fast-food chain known for its big, juicy burgers, chicken sandwiches & breakfast items",20
+Port of Subs,sandwiches,"Counter-serve chain offering made-to-order hot & cold subs, plus sandwiches & salads",25
+Milk Street Cafe,others,"Local cafe offering coffee, sandwiches, salads & baked goods",30
+Pei Wei,Asian,"Fast-casual chain offering a variety of Asian-inspired dishes, including rice & noodle bowls",25
+W.G. Grinders,sandwiches,"Local chain known for its hot, oven-baked sandwiches, including subs & salads",20
+Foster's Freeze,dessert,"Local fast-food chain known for its soft-serve ice cream, sundaes & burgers",20
+Caseys Carry Out Pizza,pizza,"Convenience store chain offering pizza, sandwiches, and snacks for carryout",20
+Tastee Freez,dessert,"Local fast-food chain offering soft-serve ice cream, shakes & burgers",20
+Taco Bueno,tacos,"Fast-food chain offering Tex-Mex favorites, including tacos, burritos & nachos",20
+Jimmy John's,sandwiches,"Counter-serve chain offering a variety of sandwiches, plus chips & drinks",25
+Subway,sandwiches,"International fast-food chain known for its submarine sandwiches & salads",30
+Papa John's Pizza,pizza,"Pizza chain offering a wide variety of pizzas, plus wings & breadsticks",25
+Cook Out,burgers,"Fast-food chain offering burgers, barbecue, and milkshakes in a no-frills setting",20
+Krispy Krunchy Chicken,chicken,"Fast-food chain offering Cajun-style fried chicken, biscuits & sides",20
+Hardee's/red Burrito,burgers,"Fast-food chain offering burgers, chicken sandwiches, burritos & tacos",20
+Lacey's On The Hill Restaurant,others,"Local diner serving classic American comfort food in a casual setting",30
+Pizza Pro,pizza,"Local pizzeria offering pizza, subs, and salads for dine-in, takeout, or delivery",20
+Cottage Inn Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",25
+Runza,burgers,"Regional fast-food chain known for its German-inspired burgers, sandwiches & sides",20
+Eudici's Pizza,pizza,"Local pizzeria offering New York-style pizza, pasta, and subs in a casual setting",20
+Taco Cabana,Mexican,"Fast-food chain offering Mexican-inspired dishes, including tacos, burritos & fajitas",20
+Boomer's Drive-In,burgers,"Local drive-in serving classic American fast food, including burgers, fries & shakes",20
+Hot Dog on a Stick,others,"Fast-food chain known for its stick-mounted, deep-fried hot dogs on a stick",20
+Dunkin' Donuts,others,"Chain serving signature coffee, breakfast sandwiches & a variety of donuts",30
+Christo's Original,others,"Local diner serving classic American comfort food in a casual setting",25
+Carvel,dessert,"Ice cream shop chain offering soft-serve ice cream, sundaes & cakes",20
+Chicken Inn,chicken,"Local fast-food chain known for its fried chicken, sides & biscuits",20
+Shake Shack,burgers,"Fast-casual chain known for its burgers, hot dogs, and frozen custard",20
+Quiznos Sub,sandwiches,"Counter-serve chain known for its toasted subs, soups & salads",20
+KFC - Kentucky Fried Chicken,chicken,"Global fast-food chain known for its fried chicken buckets, sandwiches & sides",20
+Chick-fil-A,chicken,"Fast-food chain known for its chicken sandwiches, nuggets, and waffle fries",20
+El Burrito Loco,Mexican,"Local Mexican restaurant offering traditional dishes, including tacos, burritos & enchiladas",25
+Papa Gino's,pizza,"Casual pizzeria chain offering New York-style pizza, subs & pasta dishes",20
+Spangles,burgers,"Regional fast-food chain offering a variety of burgers, sandwiches & sides",20
+Capri Restaurant,Italian,"Local Italian restaurant offering traditional pasta dishes, pizzas & subs",25
+Angelina's Pizza,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Chanello's Pizza,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Krystal,burgers,"Regional fast-food chain known for its small, square hamburgers called Krystals",20
+China Bowl Take Out Restaurant,Chinese,"Local Chinese takeout restaurant offering traditional dishes & lunch specials",20
+Sonic Drive In,burgers,"Drive-in fast-food chain known for its burgers, hot dogs, and shakes",30
+Auntie Anne's Pretzels,others,"International chain known for its hand-rolled soft pretzels, dips & drinks",25
+Garden Catering,fast food,"Local fast-food chain offering a variety of sandwiches, wraps & sides",25
+A's Ace Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Baker's Drive Thru,burgers,"Local drive-thru chain offering burgers, sandwiches, and shakes",20
+Pizza Guys,pizza,"Chain pizzeria offering pizza, pasta, salads & wings for takeout or delivery",25
+Chicago Pizza With A Twist,pizza,"Casual pizzeria offering Chicago-style deep-dish pizza with a twist",20
+Surfside Burger Shack,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Baskin-Robbins,dessert,"Global chain offering a variety of ice cream flavors, plus cakes & sundaes",20
+Church's Chicken,chicken,"Global fast-food chain known for its fried chicken, biscuits & sides",20
+Ameci Pizza & Pasta,pizza,"Local pizzeria offering New York-style pizza, pasta, and subs in a casual setting",25
+Ak Buffet,Asian,"Local buffet offering a variety of Asian-inspired dishes, including sushi & stir-fry",30
+Barro's Pizza,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Long John Silver's,seafood,"Fast-food chain known for its battered & fried fish, shrimp, and chicken",20
+Boys Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Topper's Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",30
+Panda Express,Chinese,"Fast-food chain offering American-Chinese favorites, including orange chicken & fried rice",20
+Einstein Bros Bagels,bagels,"Chain specializing in bagels, breakfast sandwiches, and coffee",20
+Band Box Diner,others,"Local diner serving classic American comfort food in a casual setting",25
+Quiznos,sandwiches,"Counter-serve chain known for its toasted subs, soups & salads",20
+Jersey Mike's Subs,sandwiches,"Counter-serve chain known for its made-to-order subs, wraps & salads",25
+Tom's Drive In,burgers,"Local drive-in serving classic American fast food, including burgers, fries & shakes",20
+Boston Burger Company,burgers,"Local burger joint known for its gourmet burgers, fries & shakes",20
+Romas Pizza,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Panera Bread,sandwiches,"Counter-serve bakery-cafe chain serving sandwiches, salads & more",20
+Wienerschnitzel,hot dogs,"Fast-food chain offering hot dogs, burgers & sandwiches in a casual setting",20
+Pony Express To Go,fast food,"Local fast-food chain offering a variety of sandwiches, wraps & sides",25
+Popeyes,chicken,"Global fast-food chain known for its fried chicken, biscuits & Cajun-inspired sides",20
+Sonic,burgers,"Drive-in fast-food chain known for its burgers, hot dogs, and shakes",30
+Gambino's Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",20
+West Point Pizza,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+McAlister's Deli,sandwiches,"Casual chain known for its deli sandwiches, soups & salads",20
+Barberitos,Mexican,"Fast-casual chain offering made-to-order burritos, tacos, and bowls",20
+Mrs. Fields,dessert,"Chain bakery offering cookies, brownies & personalized cookie cakes",20
+Taco Mayo,tacos,"Fast-food chain offering Tex-Mex favorites, including tacos, burritos & nachos",20
+Tacconelli's Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",25
+Guerrazzi's,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Gus's Carryout,others,"Local carryout offering a variety of sandwiches, sides & drinks",20
+Moe's Southwest Grill,Mexican,"Fast-casual chain offering made-to-order burritos, tacos, and bowls",20
+Siam Fusion,Asian,"Local fusion restaurant offering a variety of Asian-inspired dishes, including sushi & noodles",20
+Steak Escape,steak,"Local fast-food chain offering grilled steak sandwiches, fries & drinks",20
+Mr. Chicken,chicken,"Local fast-food chain known for its fried chicken, sides & biscuits",20
+B.GOOD,burgers,"Fast-casual chain known for its burgers, salads & bowls made with local, natural ingredients",20
+Taco Casa,tacos,"Fast-food chain offering Tex-Mex favorites, including tacos, burritos & nachos",20
+Sam's Gyros,Greek,"Local Greek restaurant offering gyros, souvlaki, and other Mediterranean dishes",20
+Bojangles' Famous Chicken 'n Biscuits,chicken,"Regional fast-food chain known for its fried chicken, biscuits & sides",20
+Steak N Shake,burgers,"Classic American brand serving premium burgers and milkshakes since 1934",25
+Waffle House,others,"Casual diner chain offering classic American breakfast, lunch & dinner options",20
+Raising Cane's Chicken Fingers,chicken,"Fast-food chain known for its chicken fingers, Texas toast & secret sauce",15
+Sumo Steaks,others,"Local steakhouse offering grilled steaks, seafood, and Japanese-inspired dishes",25
+Dragon Dragon,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",25
+Crown Fried Chicken,chicken,"Local fast-food chain known for its fried chicken, wings & sides",20
+Tumby's Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",20
+Creperie,dessert,"Local creperie offering a variety of sweet and savory crepes",20
+Qdoba Mexican Eats,Mexican,"Fast-casual chain offering made-to-order burritos, tacos, and bowls",20
+Fat Mo's Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Charley's Grilled Subs,sandwiches,"Casual chain offering cheesesteaks, subs & fries in a fast-food setting",20
+Miss Katie's Diner,others,"Local diner serving classic American comfort food in a casual setting",20
+Chronic Tacos,Mexican,"Fast-casual chain offering made-to-order tacos, burritos & bowls",20
+Shawarma Kebab,others,"Local Middle Eastern restaurant offering shawarma, kebabs, and falafel",20
+Wild Willy's,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Jake's Wayback Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Taco Mama,tacos,"Fast-casual chain offering made-to-order tacos, burritos & bowls",20
+King of Wings,chicken wings,"Local fast-food chain known for its wings, chicken tenders & sides",20
+Pretzel Time,others,"Fast-food chain known for its soft pretzels, dipping sauces & drinks",20
+Sarku Japan,Japanese,"Fast-food chain offering Japanese-inspired dishes, including sushi, teriyaki & tempura",20
+Ivan's Restaurant,others,"Local diner serving classic American comfort food in a casual setting",25
+Fuddruckers,burgers,"Casual burger chain known for its big, juicy burgers & build-your-own burger bar",20
+Mandarin Garden,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",25
+El Taquito,Mexican,"Local Mexican restaurant offering traditional dishes, including tacos, burritos & fajitas",20
+Four Burgers,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Penn Station East Coast Subs,sandwiches,"Casual chain known for its Philly cheesesteaks, sandwiches, and fries",25
+The New Chalet,others,"Local diner serving classic American comfort food in a casual setting",20
+Blackjack Pizza,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",20
+Gyromania Grill,Greek,"Local Greek restaurant offering gyros, souvlaki, and other Mediterranean dishes",20
+Mc Donalds,burgers,"Iconic fast-food chain known for its burgers, fries & shakes",30
+Yoshinoya,Japanese,"Chain offering Japanese fast food, including beef bowls, teriyaki & sushi",20
+China Garden,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",25
+Mama's Fried Chicken,chicken,"Local fast-food chain known for its fried chicken, sides & biscuits",20
+China Restaurant,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",20
+Burger Basket,burgers,"Local drive-in serving classic American fast food, including burgers, fries & shakes",20
+Lobster Hut,seafood,"Local seafood restaurant offering lobster, crab legs, and other seafood dishes",20
+Ben and Jerry's,dessert,"Chain ice cream shop offering creative flavors, sundaes & other treats",20
+Taco Time,tacos,"Fast-food chain offering Mexican-inspired fare, including tacos, burritos & nachos",20
+Mr. Hoagie,sandwiches,"Local sandwich shop offering hoagies, subs, and other deli classics",20
+Fazzari's,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Taco John's,tacos,"Fast-food chain offering Mexican-inspired fare, including tacos, burritos & nachos",20
+Pizza Inn,pizza,"Casual pizzeria chain offering a variety of pizza styles, plus sandwiches & salads",20
+Cousin's Subs,sandwiches,"Regional chain offering made-to-order cold & hot subs, plus wraps & salads",20
+Fosters Freeze,dessert,"Local fast-food chain known for its soft-serve ice cream, sundaes & burgers",20
+Starbucks Coffee,others,"International chain of coffeehouses known for its signature roasts, light bites & WiFi",25
+Carl's Jr.,burgers,"Fast-food chain known for its big, juicy burgers and charbroiled chicken sandwiches",25
+Taco Bob's,tacos,"Local fast-food chain offering Tex-Mex favorites, including tacos, burritos & nachos",20
+White Castle,burgers,"Fast-food chain known for its small, square hamburgers called sliders",20
+Pepperjax Grill,burgers,"Fast-casual chain known for its Philly cheesesteaks, rice bowls & loaded fries",20
+The Pizza Company,pizza,"Local pizzeria offering New York-style pizza, subs & pasta dishes in a casual setting",20
+Joe's Crab Shack,seafood,"Casual seafood chain known for its beach-themed decor & American fare",20
+The Sandwich Place,sandwiches,"Local sandwich shop offering a variety of deli-style sandwiches, wraps & salads",20
+Little Caesar's Pizza,pizza,"Chain pizzeria offering pizza, breadsticks & wings for takeout or delivery",20
+Maid-rite,burgers,"Local fast-food chain known for its loose meat sandwiches, fries & shakes",20
+Frates Drive-In,burgers,"Local drive-in serving classic American fast food, including burgers, fries & shakes",20
+Jim's Steaks,steak,"Local fast-food chain offering Philly cheesesteaks, sandwiches & fries",20
+Gourmet Grill,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Villa Italian Kitchen,Italian,"Chain offering Italian fast food, including pizza, pasta & sandwiches",20
+Jacks N Joe,others,"Local diner serving classic American comfort food in a casual setting",20
+Wingstop,chicken wings,"Fast-casual chain known for its Buffalo-style chicken wings & sides",20
+Beef Villa,burgers,"Local burger joint offering a variety of classic and creative burgers & sandwiches",20
+Tanuki Sushi Bar and Garden,sushi,"Local sushi restaurant offering a variety of sushi rolls, sashimi & other Japanese dishes",20
+Old Carolina Barbecue Company,barbecue,"Fast-casual chain known for its Southern-style barbecue, sandwiches & sides",20
+Flame Broiler,Asian,"Fast-casual chain offering Korean-inspired rice bowls, plates & wraps",20
+Kow Thai Take Out,Thai,"Local Thai takeout restaurant offering traditional dishes & lunch specials",20
+iSushi,sushi,"Local sushi restaurant offering a variety of sushi rolls, sashimi & other Japanese dishes",20
+Shangri-la Chinese Restaurant,Chinese,"Local Chinese restaurant offering traditional dishes & lunch specials in a casual setting",25
+Black,chicken,"Local fast-food chain known for its fried chicken, sides & biscuits",20
